@@ -1,5 +1,5 @@
 orgguide-cn
 ===========
 
-The Chinese translation of Orgguide, from orgmode.com.
+The Chinese translation of Orgguide that comes from orgmode.org.
 
